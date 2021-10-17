@@ -1,0 +1,12 @@
+header,footer{
+    color: thistle;
+}
+body{
+    background-color: wheat;
+}
+.sam{
+    color: yellow;
+}
+.sam:hover{
+    color: thistle;
+}
